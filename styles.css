@@ -1,0 +1,71 @@
+.Homepage{
+width:1600px; 
+height:700px;
+top: 200px;
+left: 200px;
+border-radius: 10px;
+background-color: aquamarine;
+position: absolute;
+
+
+}
+
+.box1{
+width:200px;
+height: 200;
+background-color: darkgreen;
+position:relative;
+top:50px;
+left:50px;
+}
+
+.box2{
+    width:200px;
+    height: 200;
+    background-color: darkgreen;
+    position:absolute;
+    top:50px;
+    left:500px;
+    border-radius: 2px;
+}
+ 
+
+
+.box3{
+    width:200px;
+    height: 200;
+    background-color: darkgreen;
+    position:relative;
+    top:50px;
+    left:90px;
+    border-radius: 2px;
+
+}
+
+
+.box4{
+
+width:200px;
+height: 200;
+background-color: darkgreen;
+position:relative;
+top:50px;
+left:110px;
+border-radius: 2px;
+    }
+
+.Title{
+font-size: 100px;
+position: relative;
+top:100px;
+left:500px;
+font-weight: bolder;
+
+}
+
+.paragraph{
+    font-size: 50px;
+    position: relative;
+    top: 50px;
+    left: 500px;
+}
